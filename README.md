@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋  Welcome!
 
 <!--
 **danimilani/danimilani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+## I'm Daniella Milani!
+ 
+I'm an Operations Specialist in the Financial Market and I'm currently studying Web Development.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Tech lover! 😄 
+ 
+## About me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danimilani)](https://github.com/danimilani)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniella-milani/)](https://www.linkedin.com/in/daniella-milani/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mp.danii@gmail.com)](mailto:mp.danii@gmail.com)
+ 
+- Thanks for visiting. 
+ 
+- Enjoy it!! o/
