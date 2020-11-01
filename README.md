@@ -15,3 +15,6 @@ I'm a Tech lover and I love to learn new things! 😄
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mp.danii@gmail.com)](mailto:mp.danii@gmail.com)
  
 Thanks for visiting and enjoy it!! 
+
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=danimilani&show_icons=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danimilani&layout=compact)
