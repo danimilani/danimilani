@@ -5,7 +5,7 @@
  
 ## I'm Daniella Milani!
  
-I'm a Financial Operations Specialist and I'm currently studying Web Development.
+I'm an Operations Specialist and I'm currently studying Web Development.
 
 I'm a Tech lover and I love to learn new things! 😄 
  
