@@ -16,7 +16,7 @@ I'm a Tech lover and I love to learn new things! 😄
  
 Thanks for visiting and enjoy it!! 
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=danimilani&show_icons=true)
+
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danimilani&layout=compact)
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
 
