@@ -17,3 +17,5 @@ Thanks for visiting! 👩🏼‍💻
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danimilani&layout=compact)
 
+![](https://komarev.com/ghpvc/?username=danimilani&color=blue&style=flat
+
