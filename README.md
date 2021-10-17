@@ -3,7 +3,7 @@
  
 ## I'm Daniella Milani!
  
-📈  I work in the stock market and I'm currently studying Web Development.
+📈  I work in Financial Services and I'm currently learning to code.
 
 🤓  I'm a Tech lover and I love to learn new things! 
  
