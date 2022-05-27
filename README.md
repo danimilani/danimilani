@@ -3,7 +3,7 @@
  
 ## I'm Daniella Milani!
  
-📈  I work in Financial Services and I'm currently learning to code.
+📈  I work in Financial Services and I'm currently learning to code, developing technical skills in SQL, Python, HTML, Javascript and CSS.
 
 🤓  I'm a Tech lover and I love to learn new things! 
  
