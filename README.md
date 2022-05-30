@@ -3,9 +3,9 @@
  
 ## I'm Daniella Milani!
  
-📈  I work in Financial Services and I'm currently learning to code, developing technical skills in SQL, Python, HTML, Javascript and CSS.
+📈  I am a Bachelor in Business Administration and Accounting with work experience in Financial Services. I currently work with Technical Support and Client Services and now I'm focusing on learning to code and developing technical skills in SQL, Python, HTML, Javascript and CSS.
 
-🤓  I'm a Tech lover and I love to learn new things! 
+🤓  I'm passionate about learning new things and  here in my profile I share the projects that I have been working on (you can see some of them pinned below) and a collection of files and notes that I create during my courses.
  
 ## Find me at:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danimilani)](https://github.com/danimilani)
