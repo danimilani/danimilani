@@ -15,6 +15,9 @@
 Thanks for visiting! 👩🏼‍💻
 
 
+## Github stats:
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=danimilani&count_private=true&theme=default&showicons=true&hide=prs)]()
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danimilani&layout=compact)
 
 <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
