@@ -1,7 +1,6 @@
-### Hi there 👋  
-### Welcome!
- 
-## I'm Daniella Milani!
+### Hi there, I'm Daniella Milani 👋  
+
+![Banner](https://github.com/danimilani/danimilani/blob/main/bannerdani.png)
  
 📈  I am a Bachelor in Business Administration and Accounting with work experience in Financial Services. I currently work with Technical Support and Client Services and I'm changing my career path, focusing on learning to code and developing technical skills in SQL, Python, HTML, Javascript and CSS.
 
