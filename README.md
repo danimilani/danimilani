@@ -1,4 +1,4 @@
-### Hi there, I'm Daniella Milani 👋  
+### Hi there, I'm Daniella Milani! 👋  
 
 ![Banner](https://github.com/danimilani/danimilani/blob/main/bannerdani.png)
  
