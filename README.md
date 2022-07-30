@@ -17,3 +17,7 @@ Thanks for visiting! 👩🏼‍💻
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danimilani&layout=compact)
 
+<img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+<br>
+<br>
+
