@@ -18,7 +18,7 @@ Thanks for visiting! 👩🏼‍💻
 
 ## Github stats:
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=danimilani&count_private=true&theme=default&showicons=true&hide=prs)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=danimilani&count_private=true&theme=default&showicons=true&hide=prs)]()
 <br>
 <br>
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danimilani&layout=compact)
