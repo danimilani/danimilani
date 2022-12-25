@@ -6,6 +6,8 @@
 
 🤓  I'm passionate about learning new things and here in my profile I share the projects that I have been working on (you can see some of them pinned below and a few other ones in my repositories) and a collection of files and notes that I create on the courses that I am doing.
 
+Check my Portfolio here: [Daniella Milani's Portfolio]([https://link-url-here.org](https://danimilani.github.io/))
+
 Thanks for visiting! 👩🏼‍💻
  
 ## Find me at:
