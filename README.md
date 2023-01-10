@@ -4,7 +4,7 @@
  
 📈  I am a Bachelor in Business Administration and Accounting with work experience in Financial Services. I currently work with Technical Support and Client Services and I'm focusing on learning to code and developing technical skills in SQL, Python, HTML, Javascript and CSS.
 
-🤓  I'm passionate about learning new things and here in my profile I share the projects that I have been working on - you can also see some of them in my Portfolio - and a collection of files and notes that I create on the courses that I am doing.
+🤓  I'm passionate about learning new things and here in my profile I share the projects that I have been working on - you can also see some of them in my Portfolio - and a collection of files and notes that I create during the courses that I am doing.
 
 Check my Portfolio here: [Daniella Milani's Portfolio](https://danimilani.github.io/)
 
