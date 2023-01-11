@@ -16,7 +16,7 @@
 
 :small_orange_diamond: **Industry Knowledge:** Finance, Business Administration, Accounting, Fixed Income, Cash Equities, ETF, Bank Reconciliation and Customer Service/Experience.
 
-:small_orange_diamond: **Languages:** English and Portuguese
+:small_orange_diamond: **Languages:** English and Portuguese.
 
 
  
