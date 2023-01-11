@@ -13,7 +13,9 @@ Check my Portfolio here: [Daniella Milani's Portfolio](https://danimilani.github
 ## Core Competencies
 
 :small_orange_diamond: **Tools & Technologies:** Excel, VBA, VS Code, Git/Github, HTML, CSS. Developing skills in SQL, Python, Javascript and Qlik.
+
 :small_orange_diamond: **Industry Knowledge:** Finance, Business Administration, Accounting, Fixed Income, Cash Equities, ETF, Bank Reconciliation and Customer Service/Experience.
+
 :small_orange_diamond: **Languages:** English and Portuguese
 
 Thanks for visiting! 👩🏼‍💻
