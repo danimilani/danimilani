@@ -1,7 +1,5 @@
 ### Hi there, I'm Daniella Milani! 👋  
 
-![Banner](https://github.com/danimilani/danimilani/blob/main/bannerdani.png)
-
 ## About Me
 
 📈  I have recently completed a Full Stack Nanodegree and I am a Bachelor in Business Administration and Accounting with work experience in Financial Services. I currently work with Technical Support and Client Services and I'm focusing on learning to code and developing my technical skills.
