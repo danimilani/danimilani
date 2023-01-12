@@ -25,14 +25,3 @@
  
 
 
-## Github stats:
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=danimilani&count_private=true&theme=transparent&showicons=true)
-<br>
-<br>
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danimilani&layout=compact)
-
-<img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
-<br>
-<br>
-
