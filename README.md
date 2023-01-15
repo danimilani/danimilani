@@ -16,10 +16,7 @@
 
 :small_orange_diamond: **Languages:** English and Portuguese.
 
-## My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danimilani&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
- 
 ## Find me at:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danimilani)](https://github.com/danimilani)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniella-milani/)](https://www.linkedin.com/in/daniella-milani/)
