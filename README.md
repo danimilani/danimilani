@@ -16,6 +16,7 @@
 
 :small_orange_diamond: **Languages:** English and Portuguese.
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danimilani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
