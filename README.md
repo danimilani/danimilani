@@ -2,7 +2,7 @@
 
 ## About Me
 
-📈  I have recently completed a Full Stack Nanodegree and I am a Bachelor in Business Administration and Accounting with work experience in Financial Services. I currently work with Technical Support and Client Services and I'm focusing on learning to code and developing my technical skills.
+📈  I have recently completed a Full Stack Nanodegree and I am a Bachelor in Business Administration and Accounting with work experience in Financial Services. I currently work with Data and Technology Services and I'm focusing on learning to code and developing my technical skills.
 
 🤓  I'm passionate about learning new things and here in my profile I share the projects that I have been working on and a collection of files and notes that I create during the courses that I am doing.
 
